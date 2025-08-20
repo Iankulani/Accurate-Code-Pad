@@ -11,7 +11,7 @@ and keeps you focused with a clean, red interface.
 OpenAI configuration is built in: paste your API key, pick a model, 
 set temperature, and toggle safe-mode prompts.
 Draft, refactor, translate, or summarize code and documents without leaving the pad. 
-Telegram configuration is also ready: connect a bot, choose channels, 
+Telegram configuration is also ready: connect a bot,choose channels, 
 map commands to actions, and share outputs instantly.
 
 The editor brings smart autocomplete, inline search, fenced code blocks, 
