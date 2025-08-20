@@ -1,5 +1,6 @@
 # Accurate-Code-Pad
 
+
 <img width="500" height="500" alt="codepad5" src="https://github.com/user-attachments/assets/fb23263a-bc6b-4571-be17-4fbf4a69d330" />
 
 
